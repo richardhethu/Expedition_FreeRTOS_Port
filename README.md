@@ -2,7 +2,7 @@ Expedition_FreeRTOS_Port
 ========================
 FreeRTOS porting to Expedition Cortex-M3 chip. Main features include
 
-1. Terminal Interaction: terminal_printf(...) and terminal_Scanf(...)
+1. Terminal Interaction: terminal_printf(...) and terminal_scanf(...)
 2. Ethernet Interaction: ethernet_send(...) and ethernet_receive(...)
 3. Wireless Interaction: wireless_send(...) and wireless_receive(...)
 4. Power sensor reading: read_power(...)
